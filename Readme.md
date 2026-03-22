@@ -34,7 +34,7 @@ This project simulates an e-commerce database system. It includes tables for cus
 - Implement Views for simplified query access
 - Add Indexing for performance optimization
 - Use CTE for advanced query structuring
-- 
+  
 # Tools Used
 
 - SQL Server Management Studio (SSMS)
