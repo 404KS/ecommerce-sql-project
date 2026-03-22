@@ -1,10 +1,10 @@
-* E-commerce SQL Project
+# E-commerce SQL Project
 
-*  Overview
+#  Overview
   
 This project simulates an e-commerce database system. It includes tables for customers, products, orders, and order items, and demonstrates various SQL operations.
 
-* Database Schema
+# Database Schema
 
 - Customers: Stores customer details
 - Products: Stores product information
@@ -12,7 +12,7 @@ This project simulates an e-commerce database system. It includes tables for cus
 - Order_items: Stores products within each order
 
 
-* Key Features
+# Key Features
 
 - Implemented relational database with primary and foreign keys
 - Performed data analysis using SQL queries
@@ -22,7 +22,7 @@ This project simulates an e-commerce database system. It includes tables for cus
 - Used CASE statements for data categorization
 
 
-* Sample Queries
+# Sample Queries
 
 - Total orders per customer
 - Top 3 customers by spending
@@ -30,13 +30,12 @@ This project simulates an e-commerce database system. It includes tables for cus
 - Customers with more than 1 order
 
 
-* Future Improvements
+# Future Improvements
 - Implement Views for simplified query access
 - Add Indexing for performance optimization
 - Use CTE for advanced query structuring
 - 
-
-* Tools Used
+# Tools Used
 
 - SQL Server Management Studio (SSMS)
 - SQL
