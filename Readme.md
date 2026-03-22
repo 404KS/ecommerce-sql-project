@@ -1,6 +1,7 @@
 * E-commerce SQL Project
 
 *  Overview
+  
 This project simulates an e-commerce database system. It includes tables for customers, products, orders, and order items, and demonstrates various SQL operations.
 
 * Database Schema
